@@ -64,7 +64,8 @@ button {
 .content-block1 {
   box-sizing: border-box;
   width: 720px;
-  padding: 154px 126px 135px 162px;
+  height: 720px;
+  padding: 134px 126px 125px 162px;
 }
 
 .content-block1 h1 {
@@ -83,6 +84,7 @@ button {
   box-sizing: border-box;
   padding: 164px 166px 104px 105px;
   width: 720px;
+  height: 720px;
 }
 
 .content-block2 h3 {
